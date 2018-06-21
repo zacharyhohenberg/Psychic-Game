@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold !important;
+    color: orange;
+    font-size: 60px;
+}
+body {
+    background-image: url("../images/car.jpg");
+    background-size: 100%;
+    
+}
+p {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
